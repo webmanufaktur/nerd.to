@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Winston"
+title = "nerd.to"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 
@@ -16,8 +16,8 @@ paginate = 3
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
-  showAuthorOnHomepage = true
+  twitter_handle = "@twitter"
+  showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showPostsOnHomepage = false
   addFrame = true
